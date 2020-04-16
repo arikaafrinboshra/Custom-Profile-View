@@ -2,5 +2,5 @@
 
 A customized Profile View with animation. 
 
-![ProfileView]
+![Uploading vdo.gif…]()
 
