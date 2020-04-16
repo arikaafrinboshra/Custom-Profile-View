@@ -23,4 +23,4 @@ This the button for adding a new task.
 
 ### Screen Shot 
 
-![](<img width="370" alt="View" src="https://github.com/arikaafrinboshra/Custom-Profile-View/blob/master/CustomTableViewCell/View.png">)
+![](https://github.com/arikaafrinboshra/Custom-Profile-View/blob/master/CustomTableViewCell/View.png)
